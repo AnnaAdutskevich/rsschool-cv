@@ -16,10 +16,22 @@ I spent a few months to find something I liked.
 I started to study html and css, started to write my first pages, which I drew myself in figma. That's what I liked right away. When I learned the basics of html and css, I began to learn my first programming language - JavaScript. That's when I realised that this is what I like to do.
 Looking for my first company for an internship or junior frontend-developer position. In my spare time I go to the gym, play Battleship, and read books. I consider knitting and making confectionery to be my hobbies
 
-Skills and Proficiency:
-HTML5, CSS3,
-JavaScript Basics,
-Git, GitHub,
-VS Code,
-SASS, SCSS,
-Adobe Photoshop, Illustrator, InDesign
+#### Skills and Proficiency:
++ HTML5, CSS3
++ JavaScript Basics
++ Git, GitHub
++ VS Code
++ SASS, SCSS
++ Adobe Photoshop, Illustrator, InDesign, Figma
++ MongoDB
++ ReactBasics
+
+#### Courses:
++ Internship Itransition (completed)
++ RS Schools Course (in progress)
+
+#### Languages:
++ Russian - Native
++ Polish - A2
++ English - B1
+
