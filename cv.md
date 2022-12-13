@@ -1,12 +1,12 @@
 # rsschool-cv
 ## Hanna Adutskevich
 ### Junior Frontend Developer
-* Contact information:
+#### Contact information:
 + Phone: +370 623 78 723
 + E-mail: ann.efremenkova@gmail.com
 + Telegram: @efremushka
 
-About Myself:
+#### About Myself:
 After finishing education in medical college worked as Paramedic-obstetrician. Then after 2 years of working there desided to change sphere to Frontend-development. 
 
 I started learning Frontend basics by myself. 
