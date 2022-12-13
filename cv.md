@@ -1,6 +1,6 @@
-rsschool-cv
-Hanna Adutskevicj
-Junior Frontend Developer
+# rsschool-cv
+## Hanna Adutskevich
+### Junior Frontend Developer
 Contact information:
 Phone: +370 623 78 723
 E-mail: ann.efremenkova@gmail.com
